@@ -1,0 +1,57 @@
+p {
+    color: rgba(24, 97, 215, 0.74);
+    font: small;
+  }
+
+
+.paragraph{
+  color:rgb(11, 167, 167);
+  font-size: 14px;
+  
+}
+#header{
+  color:blue;
+}
+.box > p {
+  color: red;
+}
+a:link{
+  color: brown;
+}
+a:active{
+  color: rgb(0, 0, 0);
+}
+a:visited{
+  color: aqua;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: 'Sofia Sans Condensed';
+}
+.center{
+  text-align: center;
+  color: red;
+}
+.size{
+  font-size: xx-large;
+  color:green;
+}
+.two{
+  font-size: x-large;
+}
+.three{
+  font-size: large;
+  color:brown;
+}
+li{
+  color: darkorange;
+}
+#one{
+  font-size: large;
+  color:brown;
+}
+th{
+  color: darkkhaki;
+}
